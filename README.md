@@ -7,7 +7,14 @@ Inspiration/form taken from this [TIL](https://github.com/jbranchaud/til) by [Jo
 ---
 
 ### Topics
+* [Bash](#bash)
 * [Git](#git)
+* [Mac](#mac)
+
+---
+
+#### Bash
+* [Bare clones](bash/source.md)
 
 ---
 
@@ -15,4 +22,9 @@ Inspiration/form taken from this [TIL](https://github.com/jbranchaud/til) by [Jo
 * [Bare clones](git/bare-clones.md)
 * [Transfer project to a new remote repository](git/transfer-to-new-remote-repo.md)
 
-___
+---
+
+#### Mac
+* [Show hidden files](mac/show-hidden-files.md)
+
+---
