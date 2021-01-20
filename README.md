@@ -6,7 +6,7 @@ Inspiration/form taken from this [TIL](https://github.com/jbranchaud/til) by [Jo
 
 ---
 
-### Topics
+## Topics
 * [Bash](#bash)
 * [Git](#git)
 * [Mac](#mac)
@@ -14,7 +14,7 @@ Inspiration/form taken from this [TIL](https://github.com/jbranchaud/til) by [Jo
 ---
 
 #### Bash
-* [Bare clones](bash/source.md)
+* [Source](bash/source.md)
 
 ---
 
