@@ -16,6 +16,7 @@ Inspiration/form taken from this [TIL](https://github.com/jbranchaud/til) by [Jo
 #### Bash
 * [Source](bash/source.md)
 * [Parameters: positional and special](bash/parameters-positional-and-special.md)
+* [Redirection](bash/redirection.md)
 
 ---
 
