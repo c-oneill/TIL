@@ -10,6 +10,7 @@ Inspiration/form taken from this [TIL](https://github.com/jbranchaud/til) by [Jo
 * [Bash](#bash)
 * [Git](#git)
 * [Mac](#mac)
+* [Vim](#vim)
 
 ---
 
@@ -30,3 +31,6 @@ Inspiration/form taken from this [TIL](https://github.com/jbranchaud/til) by [Jo
 * [Show hidden files](mac/show-hidden-files.md)
 
 ---
+
+#### Vim
+* [Vimtutor](vim/vimtutor.md)
