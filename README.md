@@ -29,6 +29,7 @@ Inspiration/form taken from this [TIL](https://github.com/jbranchaud/til) by [Jo
 
 #### Mac
 * [Show hidden files](mac/show-hidden-files.md)
+* [Show hidden menu option](mac/show-hidden-menu-options.md)
 
 ---
 
